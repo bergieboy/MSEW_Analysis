@@ -5,6 +5,9 @@ __author__ = 'Todd Bergman for WPM'
 """
 THIS SCRIPT DOES NOT ANALYZE GLOBAL STABILITY OF WALL SETTLEMENT
 
+This script calculates the demand capcity ration for all external stability limiting states: Eccentricity,
+Overturning, Sliding, and Bearing Restistance. 
+
 Assumptions:
 - The wall has an embedment depth of 2 ft
 - The water depth below the leveling pad is at least 30ft [from RKCI]
