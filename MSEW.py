@@ -1,6 +1,6 @@
 import math
 
-__author__ = 'Todd Bergman for WPM'
+__author__ = 'Todd Bergman'
 
 """
 THIS SCRIPT DOES NOT ANALYZE GLOBAL STABILITY OF WALL SETTLEMENT
